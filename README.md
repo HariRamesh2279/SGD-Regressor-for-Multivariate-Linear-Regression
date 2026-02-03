@@ -1,4 +1,4 @@
-<img width="788" height="574" alt="{EE31A92A-992A-4DA2-A5C6-8964C3273F29}" src="https://github.com/user-attachments/assets/521ccfc6-5e04-467f-b3f9-06ba613dfefb" /># SGD-Regressor-for-Multivariate-Linear-Regression
+# SGD-Regressor-for-Multivariate-Linear-Regression
 
 ## AIM:
 To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
@@ -98,8 +98,7 @@ plt.show()
 ```
 
 ## Output:
-<img width="814" height="566" alt="Screenshot 2026-01-30 140714" src="https://github.com/user-attachments/assets/c3c06430-7688-413f-886c-0e559c0a243e" />
-
+<img width="788" height="574" alt="{EE31A92A-992A-4DA2-A5C6-8964C3273F29}" src="https://github.com/user-attachments/assets/521ccfc6-5e04-467f-b3f9-06ba613dfefb" />
 
 
 ## Result:
